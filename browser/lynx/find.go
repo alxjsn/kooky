@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/netscape"
+	"github.com/alxjsn/kooky"
+	"github.com/alxjsn/kooky/internal/cookies"
+	"github.com/alxjsn/kooky/internal/netscape"
 )
 
 type lynxFinder struct{}

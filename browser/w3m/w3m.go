@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
+	"github.com/alxjsn/kooky"
+	"github.com/alxjsn/kooky/internal/cookies"
 )
 
 type w3mCookieStore struct {

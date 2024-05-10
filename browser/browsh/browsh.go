@@ -4,9 +4,9 @@ package browsh
 import (
 	"net/http"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/firefox"
+	"github.com/alxjsn/kooky"
+	"github.com/alxjsn/kooky/internal/cookies"
+	"github.com/alxjsn/kooky/internal/firefox"
 )
 
 func ReadCookies(filename string, filters ...kooky.Filter) ([]*kooky.Cookie, error) {

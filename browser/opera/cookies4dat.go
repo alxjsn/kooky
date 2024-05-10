@@ -8,7 +8,7 @@ import (
 	"math/bits"
 	"time"
 
-	"github.com/browserutils/kooky"
+	"github.com/alxjsn/kooky"
 )
 
 type fileHeader struct {

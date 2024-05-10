@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/testutils"
+	"github.com/alxjsn/kooky"
+	"github.com/alxjsn/kooky/internal/testutils"
 )
 
 // d18f6247db68045dfbab126d814baf2cf1512141391

@@ -7,12 +7,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/chrome"
-	"github.com/browserutils/kooky/internal/chrome/find"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/ie"
-	_ "github.com/browserutils/kooky/internal/ie/find"
+	"github.com/alxjsn/kooky"
+	"github.com/alxjsn/kooky/internal/chrome"
+	"github.com/alxjsn/kooky/internal/chrome/find"
+	"github.com/alxjsn/kooky/internal/cookies"
+	"github.com/alxjsn/kooky/internal/ie"
+	_ "github.com/alxjsn/kooky/internal/ie/find"
 )
 
 // TODO !windows platforms

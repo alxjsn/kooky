@@ -12,9 +12,9 @@ import (
 
 	"golang.org/x/crypto/pbkdf2"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/timex"
-	"github.com/browserutils/kooky/internal/utils"
+	"github.com/alxjsn/kooky"
+	"github.com/alxjsn/kooky/internal/timex"
+	"github.com/alxjsn/kooky/internal/utils"
 )
 
 // Thanks to https://gist.github.com/dacort/bd6a5116224c594b14db

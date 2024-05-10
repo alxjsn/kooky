@@ -3,8 +3,8 @@ package kooky_test
 import (
 	"fmt"
 
-	"github.com/browserutils/kooky"
-	_ "github.com/browserutils/kooky/browser/all" // register cookiestore finders
+	"github.com/alxjsn/kooky"
+	_ "github.com/alxjsn/kooky/browser/all" // register cookiestore finders
 )
 
 func ExampleFindAllCookieStores() {

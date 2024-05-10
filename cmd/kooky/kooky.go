@@ -8,8 +8,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/browserutils/kooky"
-	_ "github.com/browserutils/kooky/browser/all"
+	"github.com/alxjsn/kooky"
+	_ "github.com/alxjsn/kooky/browser/all"
 
 	"github.com/spf13/pflag"
 )
